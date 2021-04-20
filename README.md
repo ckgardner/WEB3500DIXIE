@@ -1,4 +1,2 @@
-
 # WEB3500DIXIE
-
-Michael Lamb
+Cade Gardner
